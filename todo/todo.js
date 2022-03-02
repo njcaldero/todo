@@ -2,6 +2,9 @@ const fs = require('fs');
 
 let listadoPorHacer = [];
 
+
+let pruebaMerge = [];
+
 const crear = (descripcion) => {
 
     cargarDB();
