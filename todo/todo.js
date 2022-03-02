@@ -3,7 +3,7 @@ const fs = require('fs');
 let listadoPorHacer = [];
 
 
-let pruebaMerge = 'hola amigas';
+let pruebaMerge = 'hola amig';
 
 const crear = (descripcion) => {
 
