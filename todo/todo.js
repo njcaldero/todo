@@ -21,6 +21,8 @@ const crear = (descripcion) => {
 
 }
 
+var test2 =null;
+
 const getListado = () => {
     cargarDB();
     return listadoPorHacer;
